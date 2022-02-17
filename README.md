@@ -1,16 +1,44 @@
-### Hi there 👋
+## Contacs
+**Tel:** +375297554675 (MTS)\
+**Viber:** +375297554675\
+**Telegram:** taccianka\
+**E-mail:** tatsiana.vorona@gmail.com\
+**Discord:** taccianka#3740
 
-<!--
-**taccianka/taccianka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Now my goal is to become a front-end developer.\
+Like new and try it. Always in motion. Have different hobbies from cross-stitching to firmware mobile phones.\
+Participate in Local Guides Google program (adding new and editing existing places in my city and not only in my).
 
-Here are some ideas to get you started:
+## Skills
+* HTML
+* CSS (Material-UI), SASS
+* JavaScript, TypeScript
+* React (Basics)
+* Webpack
+* GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Code examples
+```
+```
+[Codewars](https://www.codewars.com/users/taccianka) ![](https://www.codewars.com/users/taccianka/badges/small) \
+[Github](https://github.com/taccianka)
+
+## Work Experience
+**Last few years** had some projects as content-manager for freelance. My work was :
+* *Create and add сards of products*
+* *Writing description of products (rewriting or copywriting)*
+* *Photo editing according to the specified parameters*
+* *Content layout*
+
+**2012 - cur.time** Minsk tractor works - *software engineer*
+## Education
+* Html, CSS, - HTML Academy
+* JavaScript, TypeScript, Webpack and other - RollingScopes 2021Q1
+* **2007-2012** Belorussian State University of Informatics and Radioelectronics -
+Faculty of Computer Systems and Networks - Computing machines, systems and networks
+
+## Languages
+English — A2 \
+Belorussian — native\
+Russian
