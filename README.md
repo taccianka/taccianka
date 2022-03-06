@@ -18,8 +18,7 @@ Participate in Local Guides Google program (adding new and editing existing plac
 * Webpack
 * GIT
 
-## Codewars
-[Codewars](https://www.codewars.com/users/taccianka)   
+## [Codewars](https://www.codewars.com/users/taccianka)   
 ![](https://www.codewars.com/users/taccianka/badges/large)
 
 ## Work Experience
