@@ -28,7 +28,7 @@ Participate in Local Guides Google program (adding new and editing existing plac
 * *Photo editing according to the specified parameters*
 * *Content layout*
 
-**2012 - cur.time** Minsk tractor works - *software engineer*
+**2012 - cur.time** Minsk tractor works - *system administrator*
 ## Education
 * Html, CSS, - HTML Academy
 * JavaScript, TypeScript, Webpack and other - RollingScopes 2021Q1
