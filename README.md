@@ -2,6 +2,6 @@
 * HTML
 * CSS (Material-UI), SASS
 * JavaScript, TypeScript
-* React (Basics)
+* React
 * Webpack
 * GIT
